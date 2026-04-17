@@ -12,6 +12,21 @@
             //    Console.WriteLine(item);
             //}
             #endregion
+
+
+            #region Question02
+            //int pageSize = 5;
+            //int pageNumber = 2;
+
+            //var Products = Source.ProductList.Skip((pageNumber - 1) * pageSize).Take(pageSize);
+
+            //foreach (var item in Products)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            #endregion
+
+
         }
     }
 }
