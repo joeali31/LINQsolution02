@@ -165,6 +165,13 @@
 
             #endregion
 
+            #region Question15
+            //var Products = Source.ProductList.ToDictionary(p => p.ProductID);
+
+            //Console.WriteLine(Products[18]);
+
+            #endregion
+
 
         }
     }
