@@ -129,6 +129,17 @@
 
             #endregion
 
+            #region Question12
+            //var categories  = Source.ProductList.Select(p => p.Category).Distinct();
+
+            //foreach (var item in categories)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            #endregion
+
+
         }
     }
 }
