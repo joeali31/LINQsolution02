@@ -179,6 +179,14 @@
 
             #endregion
 
+            #region Question17
+            //var Products = Source.ProductList.FirstOrDefault(p => p.UnitPrice > 50000000M);
+
+            //Console.WriteLine(Products);
+
+            #endregion
+
+
         }
     }
 }
