@@ -195,6 +195,15 @@
             //}
             #endregion
 
+            #region Question19
+            //var even = Enumerable.Range(1, 30).Where(e => e % 2 == 0);
+
+            //foreach (var item in even)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            #endregion
+
 
         }
     }
