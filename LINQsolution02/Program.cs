@@ -36,6 +36,13 @@
             //}
             #endregion
 
+
+            #region Question04
+            //var Products = Source.ProductList.Where(p => p.Category == "Seafood").All(p => p.UnitsInStock > 0);
+
+            //Console.WriteLine(Products);
+            #endregion
+
         }
     }
 }
