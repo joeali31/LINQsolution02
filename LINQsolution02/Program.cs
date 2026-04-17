@@ -204,6 +204,18 @@
             //}
             #endregion
 
+            #region Question20
+            //var products = Source.ProductList.Select(p => p.ProductName).Take(3);
+            //var Customers = Source.CustomerList.Select(c => c.CompanyName).Take(3);
+
+            //var res = products.Concat(Customers);
+
+            //foreach (var item in res)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            #endregion
 
         }
     }
