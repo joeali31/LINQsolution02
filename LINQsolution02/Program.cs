@@ -114,6 +114,13 @@
             //}
             #endregion
 
+            #region Question10
+            //var UnitsInStock = Source.ProductList.Sum(p => p.UnitsInStock);
+
+            //Console.WriteLine(UnitsInStock);
+            #endregion
+
+
         }
     }
 }
