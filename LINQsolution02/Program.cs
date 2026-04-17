@@ -152,6 +152,19 @@
 
             #endregion
 
+            #region Question14
+            //string[] list1 = { "Germany", "France", "UK", "Spain" };
+            //string[] list2 = { "france", "SPAIN", "Italy" };
+
+            //var res = list1.Except(list2 , StringComparer.OrdinalIgnoreCase);
+
+            //foreach (var item in res)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            #endregion
+
 
         }
     }
