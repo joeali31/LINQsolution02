@@ -102,7 +102,17 @@
             //}
             #endregion
 
+            #region Question09
+            //var customers = from c in Source.CustomerList
+            //                group c by c.Country
+            //                into g
+            //                select new {Country = g.Key , Count = g.Count() , TotalOrderValue = g.Sum(i => i.Orders.Length) };
 
+            //foreach (var item in customers)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            #endregion
 
         }
     }
