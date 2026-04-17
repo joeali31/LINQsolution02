@@ -70,6 +70,22 @@
 
 
 
+            #region Question07
+            //var Products = Source.ProductList.GroupBy(p => p.Category);
+
+            //foreach (var item in Products)
+            //{
+            //    Console.WriteLine($"Category: {item.Key} , Count: {item.Count()}");
+
+            //    foreach (var item1 in item)
+            //    {
+            //        Console.WriteLine(item1);
+            //    }
+
+            //    Console.WriteLine("=======================================================");
+            //}
+            #endregion
+
 
 
 
