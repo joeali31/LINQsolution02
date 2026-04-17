@@ -120,6 +120,14 @@
             //Console.WriteLine(UnitsInStock);
             #endregion
 
+            #region Question11
+            //var Cheapest = Source.ProductList.MinBy(p => p.UnitPrice);
+            //var Expensive = Source.ProductList.MaxBy(p => p.UnitPrice);
+
+            //Console.WriteLine(Cheapest);
+            //Console.WriteLine(Expensive);
+
+            #endregion
 
         }
     }
