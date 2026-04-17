@@ -43,6 +43,14 @@
             //Console.WriteLine(Products);
             #endregion
 
+
+            #region Question05
+            //int[] ids = { 3, 9, 13, 18 };
+
+            //Console.WriteLine(ids.Contains(9));
+            #endregion
+
+
         }
     }
 }
