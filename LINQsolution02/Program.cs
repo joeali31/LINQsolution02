@@ -186,6 +186,15 @@
 
             #endregion
 
+            #region Question18
+            //var table7 = Enumerable.Range(1, 10).Select(i => 7 * i);
+
+            //foreach (var val in table7)
+            //{
+            //    Console.WriteLine(val);
+            //}
+            #endregion
+
 
         }
     }
