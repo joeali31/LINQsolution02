@@ -217,6 +217,16 @@
 
             #endregion
 
+            #region Question21
+            //var paired  = Source.ProductList.Zip(Source.CustomerList,(p , c) => $"{p.ProductName} sold to {c.CompanyName}");
+
+            //foreach (var item in paired)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            #endregion
+
         }
     }
 }
