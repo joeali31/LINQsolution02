@@ -27,6 +27,15 @@
             #endregion
 
 
+            #region Question03
+            //var Products = Source.ProductList.OrderBy(p => p.UnitPrice).TakeWhile(p => p.UnitPrice < 25M);
+
+            //foreach (var item in Products)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            #endregion
+
         }
     }
 }
