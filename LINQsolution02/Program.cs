@@ -4,7 +4,14 @@
     {
         static void Main(string[] args)
         {
-            
+            #region Question01
+            //var TopProducts = Source.ProductList.OrderByDescending(p => p.UnitPrice).Take(3);
+
+            //foreach (var item in TopProducts)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            #endregion
         }
     }
 }
